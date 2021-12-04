@@ -12,4 +12,5 @@ public class YeniSınıf {
 		this.number=number;
 	}
 
+	//Herkese merhaba
 }
