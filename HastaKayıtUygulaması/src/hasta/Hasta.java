@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 public class Hasta {
 	
-	//Deðiþiklik yaptým...
+	//Deðiþiklik yaptým... Yine Deðiþiklik
 	String ad,soyad,cinsiyet;
 	double boy,kilo;
 	ArrayList<String> ilaçlar=new ArrayList<String>();
