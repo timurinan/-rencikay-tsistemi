@@ -8,7 +8,7 @@ import org.junit.Before;
 import org.junit.Test;
 
 public class HastaTest2 {
-	
+	//Hasta test2 sýnýfý
 	Hasta hasta;
 	ArrayList<String> olmasýgerekenilaçlar=new ArrayList<>();
 	@Before
