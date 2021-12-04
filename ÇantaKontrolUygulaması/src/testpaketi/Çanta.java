@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class Çanta {
 	
-	
+	//Bu bir denemedir
 	
 	public void malzemeleriHazýrla(String eþya1, String eþya2,String eþya3) {
 		String[] malzemeler= {eþya1,eþya2,eþya3};
